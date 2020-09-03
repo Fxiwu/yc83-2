@@ -34,5 +34,14 @@
 			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.4.RELEASE/spring-cloud-netflix-eureka-server-2.2.4.RELEASE.jar" sourcepath="D:/Maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.4.RELEASE/spring-cloud-netflix-eureka-server-2.2.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.cloud"/>
+			<attribute name="maven.artifactId" value="spring-cloud-netflix-eureka-server"/>
+			<attribute name="maven.version" value="2.2.4.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

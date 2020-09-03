@@ -16,11 +16,12 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  
 //服务降级注解
 @EnableCircuitBreaker
-public class CrbookApplication implements WebMvcConfigurer{
+
+public class CrIndexApplication implements WebMvcConfigurer {
 	 
 
 		public static void main(String[] args) {
-			SpringApplication.run(CrbookApplication.class, args);
+			SpringApplication.run(CrIndexApplication.class, args);
 		}
 		
 		
